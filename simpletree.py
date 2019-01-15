@@ -1,3 +1,9 @@
+'''
+A very simple data structure of tree
+
+@author: Lijin Xiong
+'''
+
 class SIMPLETREE(object):
     def __init__(self):
         self.tree = {}
